@@ -1,3 +1,5 @@
 banman
 blablabla
 new line
+line N1
+Line N2
