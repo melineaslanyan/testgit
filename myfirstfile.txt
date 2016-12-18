@@ -12,6 +12,15 @@ changes made by Meline
 new changes made by user
 secong change from user
 Changes which will be tagged
+version 1-changes
+version 1-chanes 2
 changes done after tagging.
 bla bla bla
+<<<<<<< HEAD
 lalalala
+=======
+commit 1
+commit 3
+change 1
+change 3
+>>>>>>> 99fa29febf43694107e3649c63bf3edfcc0d0f34
