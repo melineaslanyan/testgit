@@ -5,8 +5,5 @@ change 4new line
 # another line
 # 3rd line
 banman
-<<<<<<< HEAD
 one more banman
-=======
 change 2
->>>>>>> 99fa29febf43694107e3649c63bf3edfcc0d0f34
