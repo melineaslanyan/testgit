@@ -19,3 +19,4 @@ bla bla bla
 commit 1
 commit 3
 change 1
+change 3
